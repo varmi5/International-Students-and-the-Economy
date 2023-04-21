@@ -1,0 +1,18 @@
+﻿﻿Title:,"Table 28 - Non-UK HE students by HE provider and country of domicile"
+Subtitle:,"Academic years 2014/15 to 2021/22"
+Reference ID:,DT051 Table 28
+Data source:,HESA
+Data source link:,https://www.hesa.ac.uk/data-and-analysis/students/table-28
+Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/students/table-28.csv
+Licence:,Creative Commons Attribution 4.0 International Licence
+Date:,2023
+Filters:,Country of HE provider,All 
+,Region of HE provider,All 
+,Level of study,All 
+,Mode of study,All 
+,Academic year,2015/16 
+Search:,London School of Economics
+
+
+"UKPRN","HE Provider","Austria","Belgium","Bulgaria","Canary Islands","Croatia","Cyprus (European Union)","Cyprus not otherwise specified","Czech Republic","Denmark","Estonia","Finland","France","French Guiana","Germany","Gibraltar","Greece","Guadeloupe","Hungary","Ireland","Italy","Latvia","Lithuania","Luxembourg","Malta","Martinique","Netherlands","Poland","Portugal","Romania","Réunion","Slovakia","Slovenia","Åland Islands","Spain","Sweden","European Union not otherwise specified","Total European Union","Total"
+"10004063","London School of Economics and Political Science","60","75","25","0","5","50","0","25","35","0","40","310","0","415","0","80","0","20","40","205","0","15","25","5","0","70","55","20","30","0","15","5","0","90","35","0","1,765","6,920"

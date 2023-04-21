@@ -1,0 +1,18 @@
+﻿﻿Title:,"Table 28 - Non-UK HE students by HE provider and country of domicile"
+Subtitle:,"Academic years 2014/15 to 2021/22"
+Reference ID:,DT051 Table 28
+Data source:,HESA
+Data source link:,https://www.hesa.ac.uk/data-and-analysis/students/table-28
+Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/students/table-28.csv
+Licence:,Creative Commons Attribution 4.0 International Licence
+Date:,2023
+Filters:,Country of HE provider,All 
+,Region of HE provider,All 
+,Level of study,All 
+,Mode of study,All 
+,Academic year,2019/20 
+Search:,London School of Econ
+
+
+"UKPRN","HE Provider","Argentina","Bolivia","Brazil","Chile","Colombia","Ecuador","Falkland Islands","Guyana","Paraguay","Peru","Suriname","Uruguay","Venezuela","South America not otherwise specified","Total South America","Total"
+"10004063","London School of Economics and Political Science","25","5","60","80","70","5","0","0","5","40","0","5","5","0","295","8,170"

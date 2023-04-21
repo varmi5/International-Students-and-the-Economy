@@ -1,0 +1,18 @@
+﻿﻿Title:,"Table 28 - Non-UK HE students by HE provider and country of domicile"
+Subtitle:,"Academic years 2014/15 to 2021/22"
+Reference ID:,DT051 Table 28
+Data source:,HESA
+Data source link:,https://www.hesa.ac.uk/data-and-analysis/students/table-28
+Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/students/table-28.csv
+Licence:,Creative Commons Attribution 4.0 International Licence
+Date:,2023
+Filters:,Country of HE provider,All 
+,Region of HE provider,All 
+,Level of study,All 
+,Mode of study,All 
+,Academic year,2021/22 
+Search:,London School of Econ
+
+
+"UKPRN","HE Provider","Afghanistan","Bangladesh","Bhutan","Brunei","Cambodia","China","East Timor","Hong Kong (Special Administrative Region of China)","India","Indonesia","Japan","Kazakhstan","Korea (North)","Korea (South)","Kyrgyzstan","Laos","Macao (Special Administrative Region of China)","Malaysia","Maldives","Myanmar (Burma)","Mongolia","Nepal","Pakistan","Philippines","Singapore","Sri Lanka","Taiwan","Tajikistan","Thailand","Turkmenistan","Uzbekistan","Vietnam","Asia (Except Middle East) not otherwise specified","Total Asia","Total"
+"10004063","London School of Economics and Political Science","0","20","0","5","5","2,090","0","355","520","60","70","20","0","135","5","0","15","320","5","10","5","5","100","10","330","20","50","0","95","0","5","25","0","4,275","8,520"

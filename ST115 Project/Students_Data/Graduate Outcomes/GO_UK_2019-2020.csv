@@ -1,0 +1,20 @@
+﻿﻿Title:,"Table 2 - Graduate activities by provider and age group"
+Subtitle:,"Academic years 2017/18 to 2019/20"
+Reference ID:,DT072 Table 2
+Data source:,HESA
+Data source link:,https://www.hesa.ac.uk/data-and-analysis/graduates/table-2
+Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/graduates/table-2.csv
+Licence:,Creative Commons Attribution 4.0 International Licence
+Date:,2022
+Filters:,Country of provider,All 
+,Domicile,UK 
+,Level of qualification,All 
+,Mode of former study,All 
+,Age group,All 
+,Interim study,Include significant interim study 
+,Academic year,2019/20 
+Search:,London school of eco
+
+
+"UKPRN","Provider Name","Full-time employment","Part-time employment","Unknown pattern of employment","Voluntary or unpaid work","Employmentand further study","Full-time further study","Part-time further study","Unknown pattern of further study","Other including travel, caring for someone or retired","Unemployed and due to start work","Unemployed and due to start further study","Unemployed","Total with known outcomes","Non-respondents","Total"
+"10004063","London School of Economics and Political Science","710","50","10","15","95","75","5","0","30","10","0","35","1,035","655","1,690"
